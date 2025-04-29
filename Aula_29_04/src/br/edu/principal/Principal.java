@@ -1,7 +1,6 @@
 package br.edu.principal;
 import java.util.Scanner;
 public class Principal {
-
 	public static void Soma( int x, int y) {
 		System.out.println("Resultado Da Soma: " + (x + y));
 		}
@@ -25,7 +24,6 @@ public class Principal {
 		subtração(x,y);
 		divisao(x,y);
 		multiplicação(x,y);
-	
 }
 }
 
